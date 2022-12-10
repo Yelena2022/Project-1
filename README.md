@@ -1,4 +1,5 @@
-![Это проект по анализу резюме соискателей с сайта HH.ru](https://avatars.mds.yandex.net/get-zen_doc/3415410/pub_5fbced3e9e83245705d21542_5fbcee9a9e83245705d4ebe0/scale_1200)
+<img src = https://joblenobl.ru/images/hhh.jpg width=500 px height = 30 %>
+Это проект по анализу резюме соискателей с сайта HH.ru
 
 [Ссылка на данные с сайта HH.ru c резюме соискателей](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
