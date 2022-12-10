@@ -1,5 +1,5 @@
-#### <enter> Это проект по анализу резюме соискателей с сайта HH.ru </center>
-###### ![hh.ry](https://joblenobl.ru/images/hhh.jpg)
+#### :briefcase: Это проект по анализу резюме соискателей с сайта HH.ru
+![hh.ry](https://joblenobl.ru/images/hhh.jpg)
 
 ___
 
