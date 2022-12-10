@@ -1,4 +1,4 @@
-<img src = https://joblenobl.ru/images/hhh.jpg width=500 px height = 30 %>
+![hh.ry](https://joblenobl.ru/images/hhh.jpg)
 Это проект по анализу резюме соискателей с сайта HH.ru
 
 [Ссылка на данные с сайта HH.ru c резюме соискателей](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
